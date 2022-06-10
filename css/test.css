@@ -1,0 +1,25 @@
+/* CSS Document */
+*
+{
+	margin: 0;
+	font-family: sans-serif;
+}
+
+.proyecto
+{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.proyecto div
+{
+	flex-basis: 100%;
+}
+
+.proyecto div img
+{
+	max-width: 30%;
+	flex-basis: 50%;
+}
+
